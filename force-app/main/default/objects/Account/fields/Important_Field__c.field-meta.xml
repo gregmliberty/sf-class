@@ -4,7 +4,7 @@
     <defaultValue>false</defaultValue>
     <description>This is a super important field.</description>
     <externalId>false</externalId>
-    <label>Importt Field</label>
+    <label>Important Field</label>
     <trackFeedHistory>false</trackFeedHistory>
     <type>Checkbox</type>
 </CustomField>
